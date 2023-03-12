@@ -1,5 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
+// write in file and read
+
 int main()
 {
   FILE *S1, *S2;
